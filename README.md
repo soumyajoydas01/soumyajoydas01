@@ -7,6 +7,7 @@
 #### I'm currently working on Android Development :iphone:
 #### I've keen interest in Android and Game Development :smiley:
 #### Checkout my repositories :yum:
+#### Linkedlin: https://www.linkedin.com/in/soumyajoydas01/
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
