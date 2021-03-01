@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-## I'm Soumyajoy Das :smile:
-## I'm currently a first year student :sweat_smile:
-## I'm currently learning Java and Kotlin :relaxed:
-## I'm currently working on Android Development :iphone:
-## I've keen interest in Android and Game Development :smiley:
-## Checkout my repositories :yum:
+#### I'm Soumyajoy Das :smile:
+#### I'm currently a first year student :sweat_smile:
+#### I'm currently learning Java and Kotlin :relaxed:
+#### I'm currently working on Android Development :iphone:
+#### I've keen interest in Android and Game Development :smiley:
+#### Checkout my repositories :yum:
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
