@@ -14,7 +14,7 @@
 
 ### About Me 🚀
 🎓 I’m a Tech enthusiast & a junior pursuing Bachelors. </br>
-👨‍💻  I am passionate about Game Development, Android Development, Web Dev, Machine Learning & I enjoy learning new things. </br>
+👨‍💻  I'm deeply passionate about Game Development, Android Development, Web Dev, Machine Learning & I enjoy learning new things. </br>
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
