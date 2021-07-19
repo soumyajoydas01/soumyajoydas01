@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 - 🎓 I’m a Tech enthusiast & a junior pursuing Bachelors. </br>
-- 👨‍💻  I'm deeply passionate about Game Development, Android Development, Web Dev, Machine Learning & I enjoy learning new things. </br>
+- 👨‍💻  I'm deeply passionate about Game Development, Android Development, Web Development, Machine Learning & I enjoy learning new things. </br>
 - 😄 Pronouns: **he/him**
 
 ## Languages and Tools 🔭
@@ -15,7 +15,7 @@
     <a style="padding-right:8px;" href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
 </p>
 
-
+##Connect with Me 🤝
 <a href="https://www.linkedin.com/in/soumyajoydas01/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -28,7 +28,10 @@
 
 <br />
 
-- ![Visitor Count](https://profile-counter.glitch.me/soumyajoy01/count.svg) times visted since July 19, 2021.
+
+<br>
+<br>
+![Visitor Count](https://profile-counter.glitch.me/soumyajoy01/count.svg) times visted since July 19, 2021.
 
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
