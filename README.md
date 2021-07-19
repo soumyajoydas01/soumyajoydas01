@@ -16,22 +16,23 @@
 </p>
 
 ##Connect with Me 🤝
+## Connect with me:
+<p align="left">
+    
 <a href="https://www.linkedin.com/in/soumyajoydas01/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 <a href="https://twitter.com/soumyajoydas01">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:talktosoumyajoydas@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
 </a>
 
-<br />
+
+<br/>
 
 
-<br>
-<br>
-- ![Visitor Count] (https://profile-counter.glitch.me/soumyajoy01/count.svg) times visted since July 19, 2021.
+<br/>
+
+    - ![Visitor Count] (https://profile-counter.glitch.me/soumyajoy01/count.svg) times visted since July 19, 2021.
 
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
