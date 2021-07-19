@@ -14,9 +14,8 @@
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a style="padding-right:8px;" href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
 </p>
-
-##Connect with Me 🤝
-## Connect with me:
+ 
+## Connect with me 🤝
 <p align="left">
     
 <a href="https://www.linkedin.com/in/soumyajoydas01/">
@@ -31,8 +30,7 @@
 
 
 <br/>
-
-    - ![Visitor Count] (https://profile-counter.glitch.me/soumyajoy01/count.svg) times visted since July 19, 2021.
+-![Visitor Count] (https://profile-counter.glitch.me/soumyajoy01/count.svg) times visted since July 19, 2021.
 
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
