@@ -31,7 +31,7 @@
 
 <br>
 <br>
-- ![Visitor Count](https://profile-counter.glitch.me/soumyajoy01/count.svg) times visted since July 19, 2021.
+- ![Visitor Count] (https://profile-counter.glitch.me/soumyajoy01/count.svg) times visted since July 19, 2021.
 
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
