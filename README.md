@@ -29,7 +29,6 @@
 <br/>
 
 
-<br/>
 -![Visitor Count] (https://profile-counter.glitch.me/soumyajoy01/count.svg) times visted since July 19, 2021.
 
 <!--
