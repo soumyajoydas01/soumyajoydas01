@@ -27,6 +27,9 @@
 
 
 <br/>
+    
+<img align="left" alt="Coding" src="https://github.com/rockingrohit9639/rockingrohit9639/blob/main/coding.gif" width="500" height="320" /><br>
+
 
 
  ![Visitor Count](https://profile-counter.glitch.me/soumyajoy01/count.svg) visitors times visited my profile since July 19, 2021.
