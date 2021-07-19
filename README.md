@@ -28,7 +28,7 @@
 
 <br/>
     
-<img align="left" alt="Coding" src="https://github.com/rockingrohit9639/rockingrohit9639/blob/main/coding.gif" width="500" height="320" /><br>
+<img align="left" alt="Coding" src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/4171367-Coding-Freak?mode=media" width="500" height="320" /><br>
 
 
 
