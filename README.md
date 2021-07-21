@@ -24,6 +24,9 @@
 <a href="https://twitter.com/soumyajoydas01">
   <img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
 </a>
+<a href="https://www.polywork.com/soumyajoydas01">
+    <img src="https://user-images.githubusercontent.com/70829126/126426717-7326f07a-4831-4949-a812-eff30bde87fa.png"/>
+</a>
 
 
 <br/>
