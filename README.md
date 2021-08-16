@@ -32,7 +32,7 @@
 
 
 
- ![Visitor Count](https://profile-counter.glitch.me/soumyajoydas01/count.svg) visitors visited my profile since August,15 2021.
+ ![Visitor Count](https://profile-counter.glitch.me/soumyajoydas01/count.svg) Visitors visited my profile since August,15 2021.
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
