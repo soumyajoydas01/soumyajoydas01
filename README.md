@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Soumyajoy!](https://soumyajoy01.github.io/portfolio-website/) #
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Soumyajoy!](https://soumyajoydas01.github.io/portfolio-website/) #
 
 
 ## About Me 🚀
