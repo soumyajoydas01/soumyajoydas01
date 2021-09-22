@@ -13,6 +13,7 @@
     <a style="padding-right:8px;" href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/android-os.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a style="padding-right:8px;" href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
 </p>
  
 ## Connect with me 🤝
