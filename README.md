@@ -8,7 +8,7 @@
 
 ## Languages and Tools 🔭
 <div align="center>
-<p align="left"> 
+<p align="center"> 
     <a style="padding-right:8px;" href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
     <a style="padding-right:8px;" href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
     <a style="padding-right:8px;" href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/android-os.png"/> </a> 
@@ -21,7 +21,7 @@
  
 ## Connect with me 🤝
 <div align="center">
-<p align="left">
+<p align="center">
     
 <a href="https://www.linkedin.com/in/soumyajoydas01/">
   <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
