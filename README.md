@@ -28,8 +28,10 @@
 
 
 <br/>
-    
-<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="500" height="320" /><br>
+
+<div align="center">
+<img width="65%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="500" height="320" /></div>
+<br/>
     
 <div align="center">
 <img width="65%" src="https://activity-graph.herokuapp.com/graph?username=soumyajoydas01&bg_color=FFFFFF&color=000000&line=000000&point=00FF00%22"></div>
