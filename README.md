@@ -39,7 +39,9 @@
 
 
 
- ![](https://komarev.com/ghpvc/?username=soumyajoydas01&color=ff69b4)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=soumyajoydas01&&style=flat-square" align="center" />
+</div>  
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
