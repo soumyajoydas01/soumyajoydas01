@@ -1,4 +1,5 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Soumyajoy!](https://soumyajoydas01.github.io/) #
+
+# <div align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Soumyajoy!](https://soumyajoydas01.github.io/) </div>
 
 
 ## About Me 🚀
@@ -6,7 +7,7 @@
 - 👨‍💻  I'm deeply passionate about Game Development, Android Development, Web Development, Machine Learning & I enjoy learning new things. </br>
 - 😄 Pronouns: **he/him**
 
-## Languages and Tools 🔭
+## Technologies 🔭
 <div align="center">
 <p align="center"> 
     <a style="padding-right:8px;" href="https://www.java.com/en/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="50"/> </a>
@@ -23,7 +24,7 @@
 </div>
 <br/>
  
-## Connect with me 🤝
+##  Connect with me 🤝 
 <div align="center">
 <p align="center">
     
@@ -43,7 +44,7 @@
 
 
     
-## Github Stats :chart_with_upwards_trend:
+## <div align="center">Github Stats :chart_with_upwards_trend:</div>
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=soumyajoydas01&show_icons=true&theme=tokyonight" /> &nbsp;
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajoydas01&)">
