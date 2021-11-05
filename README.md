@@ -15,8 +15,10 @@
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50"/> </a>
     <a style="padding-right:8px;" href="https://www.cprogramming.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="50"/> </a>
     <a style="padding-right:8px;" href="https://www.cplusplus.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" height="50"/> </a>
-    <a style="padding-right:8px;" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> </a>
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> </a>
+    <a style="padding-right:8px;" href="https://html.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="50" /> </a>
+    <a style="padding-right:8px;" href="https://www.css3.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50" />  </a>     
+    <a style="padding-right:8px;" href="https://www.javascript.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="50" /> </a>
+    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="50" /> </a>
 </p>
 </div>
 <br/>
