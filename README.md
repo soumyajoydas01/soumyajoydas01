@@ -33,6 +33,14 @@
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="500" height="320" /></div>
 <br/>
     
+## Github Stats :chart_with_upwards_trend:
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=soumyajoydas01&show_icons=true&theme=tokyonight" /> &nbsp;
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajoydas01&)">
+</div>
+
+ 
+<br/>
 <div align="center">
 <img width="65%" src="https://activity-graph.herokuapp.com/graph?username=soumyajoydas01&bg_color=FFFFFF&color=000000&line=000000&point=00FF00%22"></div>
 <br/> 
