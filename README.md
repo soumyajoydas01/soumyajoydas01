@@ -7,7 +7,7 @@
 - 😄 Pronouns: **he/him**
 
 ## Languages and Tools 🔭
-<div align="center>
+<div align="center">
 <p align="center"> 
     <a style="padding-right:8px;" href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
     <a style="padding-right:8px;" href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
@@ -24,10 +24,10 @@
 <p align="center">
     
 <a href="https://www.linkedin.com/in/soumyajoydas01/">
-  <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/soumyajoydas01">
-  <img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>
 
