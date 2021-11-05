@@ -53,7 +53,7 @@
  
 <br/>
 <div align="center">
-<img width="65%" src="https://activity-graph.herokuapp.com/graph?username=soumyajoydas01&bg_color=FFFFFF&color=000000&line=000000&point=00FF00%22"></div>
+<img width="65%" src="https://activity-graph.herokuapp.com/graph?username=soumyajoydas01&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 <br/> 
 
 <!-- <div align="center">
