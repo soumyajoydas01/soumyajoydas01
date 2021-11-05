@@ -9,12 +9,14 @@
 ## Languages and Tools 🔭
 <div align="center">
 <p align="center"> 
-    <a style="padding-right:8px;" href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
-    <a style="padding-right:8px;" href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
-    <a style="padding-right:8px;" href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/android-os.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.java.com/en/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="50"/> </a>
+    <a style="padding-right:8px;" href="https://kotlinlang.org/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="50"/> </a> 
+    <a style="padding-right:8px;" href="https://developer.android.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/bubbles/50/000000/android-os.png" alt="Android" height="50"/> </a> 
+    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50"/> </a>
+    <a style="padding-right:8px;" href="https://www.cprogramming.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="50"/> </a>
+    <a style="padding-right:8px;" href="https://www.cplusplus.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" height="50"/> </a>
+    <a style="padding-right:8px;" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> </a>
+    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> </a>
 </p>
 </div>
 <br/>
