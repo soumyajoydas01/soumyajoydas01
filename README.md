@@ -47,7 +47,7 @@
 ## <div align="center">Github Stats :chart_with_upwards_trend:</div>
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=soumyajoydas01&show_icons=true&theme=tokyonight" /> &nbsp;
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajoydas01&)">
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajoydas01&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
  
