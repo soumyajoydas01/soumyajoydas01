@@ -3,7 +3,7 @@
 
 
 ## About Me 🚀
-- 🎓 I’m a Tech enthusiast & a junior pursuing Bachelors. </br>
+- 🎓 I’m a Tech enthusiast & a Sophomore pursuing Bachelors. </br>
 - 👨‍💻  I'm deeply passionate about Game Development, Android Development, Web Development, Machine Learning & I enjoy learning new things. </br>
 - 😄 Pronouns: **he/him**
 
