@@ -45,8 +45,8 @@
 
     
 ## <div align="center">Github Stats :chart_with_upwards_trend:</div>
-<!-- <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=soumyajoydas01&show_icons=true&theme=tokyonight" /> &nbsp;
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=soumyajoydas01&show_icons=true&theme=tokyonight" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajoydas01&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=soumyajoydas01&&style=flat-square" align="center" />
-</div>   -->
+</div>
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
