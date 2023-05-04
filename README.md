@@ -1,5 +1,5 @@
-
-# <div align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Soumyajoy!](https://soumyajoydas01.github.io/) </div>
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
+# <div align="center">Hey, I'm [Soumyajoy!](https://soumyajoydas01.github.io/) </div>
 
 
 ## About Me 🚀
@@ -45,7 +45,7 @@
 
     
 ## <div align="center">Github Stats :chart_with_upwards_trend:</div>
-<div align="center">
+<!-- <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=soumyajoydas01&show_icons=true&theme=tokyonight" /> &nbsp;
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajoydas01&date_format=M%20j%5B%2C%20Y%5D">
 </div>
@@ -62,7 +62,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=soumyajoydas01&&style=flat-square" align="center" />
-</div>  
+</div>   -->
 <!--
 **soumyajoy01/soumyajoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
